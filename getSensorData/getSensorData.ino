@@ -35,6 +35,7 @@ void loop() {
   //?? led indicate of start receive data
   //??process getting data and put it in array
   //?? led indicate of stop receive data
+  //?? Serial.println all data in massive to user interface. One time.
   //?? stop receive data
   
 }
